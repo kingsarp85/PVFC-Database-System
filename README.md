@@ -55,8 +55,8 @@ The following image shows the reverse-engineered ER diagram of the PVFC database
 
 ## 👤 Author
 
-**Name:** Your Full Name  
-**Index Number:** Your Index Number  
+**Name:** Kingsley Sarpei
+**Index Number:** 10318517
 **Course:** Database Management Systems  
 
 ---
