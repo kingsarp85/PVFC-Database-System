@@ -12,7 +12,6 @@ Data manipulation queries (DML)
 Primary keys and foreign keys
 Relationships between entities
 Constraints and indexes
-📁 Project Files
-PVFC_Database.sql → Main SQL script containing full database structure and queries
-PVFC_Documentation.docx → Detailed explanation of SQL scripts and queries
-PVFC_ER_Diagram.pdf → Reverse-engineered ER diagram of the database system
+
+<img width="559" height="783" alt="image" src="https://github.com/user-attachments/assets/72cf15d1-9a8f-44f3-b105-d0891e92bcf5" />
+
