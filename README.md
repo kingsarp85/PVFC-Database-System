@@ -61,6 +61,4 @@ The following image shows the reverse-engineered ER diagram of the PVFC database
 
 ---
 
-## 🔗 Repository Link
 
-https://github.com/your-username/PVFC-Database-System
